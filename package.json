@@ -4,6 +4,10 @@
   "description": "A calm, feminine light theme for new developers. Inspired by soft rose tones, minimalist UI, and a gentle coding experience.",
   "version": "1.0.0",
   "publisher": "fineline-studio",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FinelineStudio/dusty-rose-light"
+  },
   "engines": {
     "vscode": "^1.70.0"
   },
