@@ -21,4 +21,5 @@ Search for "Dusty Rose Light" in the Extensions Marketplace or install from VSIX
 
 ---
 Check out my Dusty Rose Dark too!
-© 2025 by Fineline Studio
+Designed by [Fineline Studio](https://www.finelinestudio.nl/portfolio/dusty-rose), a graphic design studio in Zeeland, the Netherlands.  
+© 2025 by [Fineline Studio](https://www.finelinestudio.nl)
